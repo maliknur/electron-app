@@ -1,0 +1,11 @@
+{
+  "name": "electron-app",
+  "version": "0.0.1",
+  "description": "Electron App",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Malik Nur <malik.dba.pro@gmail.com> (http://malik.io)",
+  "license": "MIT"
+}
